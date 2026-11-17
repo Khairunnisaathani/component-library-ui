@@ -55,7 +55,11 @@ Khairunnisa Athani# component-library-ui
 
 
 ### Home Page
-![Home Page](output/homepage.png)
+![Home Page](output/Homepage.png)
 
 ### Modal and Button Components
 ![Modal and Button](output/modal.png)
+
+![Button](output/button.png)
+
+
