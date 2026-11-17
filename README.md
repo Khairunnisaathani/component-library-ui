@@ -50,3 +50,12 @@ component-library-ui/
 Author
 
 Khairunnisa Athani# component-library-ui
+
+## Project Output
+
+
+### Home Page
+![Home Page](output/homepage.png)
+
+### Modal and Button Components
+![Modal and Button](output/modal.png)
