@@ -60,6 +60,6 @@ Khairunnisa Athani# component-library-ui
 ### Modal and Button Components
 ![Modal and Button](output/modal.png)
 
-![Button](output/button.png)
+![Button](output/Button.png)
 
 
